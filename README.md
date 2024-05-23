@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="left">Jhon Wesley</h1>
-<img align="right" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="500" background-color: transparent; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="justify">Sou estudante em Análise e Desenvolvimento de Sistemas e venho aprofundando meus conhecimentos na área de programação com os cursos do Senac e da Dio.
 Além disso, venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com a tecnologia Python, Html, Css, PHP e java.</p>
