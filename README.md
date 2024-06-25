@@ -5,7 +5,7 @@
 
 
 <p align="justify">Sou estudante em Análise e Desenvolvimento de Sistemas e venho aprofundando meus conhecimentos na área de programação com os cursos do Senac.
-Além disso, venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com a tecnologia Python, Html, Css, PHP e java.</p>
+Além disso, venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com a tecnologia Python, Html, Css, PHP, Javascript e java.</p>
 
 
 <h3>Contato:</h3>
