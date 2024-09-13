@@ -8,6 +8,16 @@ Perfil Profissional
 Desenvolvedor Web Full Stack com experiência comprovada na criação de sites e aplicações web de alto desempenho. Especializado em tecnologias modernas e versátil no uso de múltiplas linguagens de programação e frameworks. Possuo sólidos conhecimentos em HTML, CSS, JavaScript, Node.js, MySQL, Python e C#. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras que melhoram a experiência do usuário. Comprometido em entregar produtos de alta qualidade e otimizar processos através de abordagens criativas e eficientes.
 </p>
 
+<p align="justify">
+Competências Técnicas
+
+Linguagens de Programação: HTML, CSS, JavaScript, Python, C#, Node.js
+Banco de Dados: MySQL, [Outros bancos de dados, se aplicável]
+Desenvolvimento Backend: Node.js, Python (Django, Flask), C# (.NET)
+Desenvolvimento Frontend: HTML5, CSS3, JavaScript (ES6+)
+Ferramentas e Tecnologias: Git, Docker, CI/CD, APIs RESTful
+</p>
+
 ### Contato:
 <p align="left">
   <a href="https://linkedin.com/in/igorclerigo" target="_blank">
