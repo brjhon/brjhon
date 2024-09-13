@@ -2,7 +2,11 @@
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="justify">Sou estudante em Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos na área de programação com cursos do Senac. Coloco em prática o aprendizado na graduação e em cursos por meio de projetos práticos, desenvolvendo habilidades em Python, HTML, CSS, PHP, JavaScript e Java.</p>
+<p align="justify">
+Perfil Profissional
+
+Desenvolvedor Web Full Stack com experiência comprovada na criação de sites e aplicações web de alto desempenho. Especializado em tecnologias modernas e versátil no uso de múltiplas linguagens de programação e frameworks. Possuo sólidos conhecimentos em HTML, CSS, JavaScript, Node.js, MySQL, Python e C#. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras que melhoram a experiência do usuário. Comprometido em entregar produtos de alta qualidade e otimizar processos através de abordagens criativas e eficientes.
+</p>
 
 ### Contato:
 <p align="left">
