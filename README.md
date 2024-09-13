@@ -2,14 +2,7 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f4f4f4; padding: 20px;">
 
  <div style="max-width: 900px; margin: 0 auto; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <header>
-            <h1 style="color: #2980b9; font-size: 2.5em; margin-bottom: 10px;">Nome do Candidato</h1>
-            <p>[Seu Nome Completo]</p>
-            <p>[Seu Endereço]</p>
-            <p>[Seu E-mail] | [Seu Telefone]</p>
-            <p>[Seu LinkedIn/Portfólio]</p>
-        </header>
-
+</div>
  <section id="perfil">
             <h2 style="color: #2980b9; font-size: 1.8em; border-bottom: 2px solid #2980b9; padding-bottom: 5px; margin-bottom: 10px;">Perfil Profissional</h2>
             <p style="color: #34495e;">Desenvolvedor Web Full Stack com experiência comprovada na criação de sites e aplicações web de alto desempenho. Especializado em tecnologias modernas e versátil no uso de múltiplas linguagens de programação e frameworks. Possuo sólidos conhecimentos em HTML, CSS, JavaScript, Node.js, MySQL, Python e C#. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras que melhoram a experiência do usuário. Comprometido em entregar produtos de alta qualidade e otimizar processos através de abordagens criativas e eficientes.</p>
@@ -72,6 +65,6 @@
    <footer style="text-align: center; font-style: italic; margin-top: 20px;">
             <p style="font-size: 1em; color: #7f8c8d;">Referências: Disponíveis mediante solicitação.</p>
         </footer>
-    </div>
+    
 
 </body>
