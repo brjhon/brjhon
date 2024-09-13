@@ -25,7 +25,7 @@ Desenvolvedor Web Full Stack com experiência comprovada na criação de sites e
         </ul>
     </section>
 
- <section id="contato" style="margin-bottom: 20px;">
+ <section id="contato" style="margin-bottom: 40px;  background-color: #f4f4f4;">
         <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px; margin-bottom: 10px; font-size: 1.8em;">Contato</h2>
         <div style="text-align: left; margin-bottom: 20px;">
             <a href="https://linkedin.com/in/igorclerigo" target="_blank" style="display: inline-block; margin-right: 10px; vertical-align: middle;">
