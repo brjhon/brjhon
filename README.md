@@ -18,6 +18,26 @@ Desenvolvimento Frontend: HTML5, CSS3, JavaScript (ES6+)
 Ferramentas e Tecnologias: Git, Docker, CI/CD, APIs RESTful
 </p>
 
+
+<section id="competencias" style="margin-bottom: 20px;">
+        <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px; margin-bottom: 10px; font-size: 1.8em;">Competências Técnicas</h2>
+        <ul style="list-style-type: none; padding-left: 0;">
+            <li style="margin-bottom: 10px;"><strong>Linguagens de Programação:</strong> HTML, CSS, JavaScript, Python, C#, Node.js</li>
+            <li style="margin-bottom: 10px;"><strong>Frameworks e Bibliotecas:</strong>
+                <ul style="list-style-type: none; padding-left: 20px;">
+                    <li><strong>Frontend:</strong> React, Angular, Vue.js (se aplicável)</li>
+                    <li><strong>Backend:</strong> Express.js (para Node.js), Django, Flask (para Python), ASP.NET (para C#)</li>
+                </ul>
+            </li>
+            <li style="margin-bottom: 10px;"><strong>Banco de Dados:</strong> MySQL, [Outros bancos de dados que você conhece, como PostgreSQL, MongoDB, etc.]</li>
+            <li style="margin-bottom: 10px;"><strong>Desenvolvimento Backend:</strong> Node.js, Python (Django, Flask), C# (.NET)</li>
+            <li style="margin-bottom: 10px;"><strong>Desenvolvimento Frontend:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
+            <li style="margin-bottom: 10px;"><strong>Ferramentas e Tecnologias:</strong> Git, Docker, CI/CD (Integração Contínua e Entrega Contínua), APIs RESTful</li>
+            <li style="margin-bottom: 10px;"><strong>Metodologias Ágeis:</strong> Scrum, Kanban, [Outras metodologias ágeis que você utiliza, se aplicável]</li>
+        </ul>
+    </section>
+
+    
 ### Contato:
 <p align="left">
   <a href="https://linkedin.com/in/igorclerigo" target="_blank">
