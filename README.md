@@ -1,7 +1,7 @@
 <h1 align="left">Jhon Wesley</h1>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f4f4f4; padding: 20px;">
 
- <div style="max-width: 900px; margin: 0 auto; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+ <div style="max-width: 900px; height:30px; margin: 0 auto; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
  <section id="perfil">
             <h2 style="color: #2980b9; font-size: 1.8em; border-bottom: 2px solid #2980b9; padding-bottom: 5px; margin-bottom: 10px;">Perfil Profissional</h2>
