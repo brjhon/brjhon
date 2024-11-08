@@ -66,14 +66,7 @@
             <p style="font-size: 1em; color: #7f8c8d;">Referências: Disponíveis mediante solicitação.</p>
         </footer>
 
- <section style="text-align: center; margin-top: 40px;">
-            <img src="https://c4.wallpaperflare.com/wallpaper/861/306/326/skyscraper-retro-retro-art-retrowave-wallpaper-preview.jpg" alt="Imagem Principal" style="width:auto; height: auto; margin-bottom: 20px;"/>
-            <div>
-                <a href="#botao1" style="display: inline-block; margin: 0 10px; text-decoration: none; background-color: #2980b9; color: #ffffff; padding: 10px 20px; border-radius: 5px; font-size: 1em;">Botão 1</a>
-                <a href="#botao2" style="display: inline-block; margin: 0 10px; text-decoration: none; background-color: #27ae60; color: #ffffff; padding: 10px 20px; border-radius: 5px; font-size: 1em;">Botão 2</a>
-                <a href="#botao3" style="display: inline-block; margin: 0 10px; text-decoration: none; background-color: #e74c3c; color: #ffffff; padding: 10px 20px; border-radius: 5px; font-size: 1em;">Botão 3</a>
-            </div>
-        </section>
+
     
 
 </body>
