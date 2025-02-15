@@ -62,9 +62,7 @@
             </div>
         </section>
         
-   <footer style="text-align: center; font-style: italic; margin-top: 20px;">
-            <p style="font-size: 1em; color: #7f8c8d;">Referências: Disponíveis mediante solicitação.</p>
-        </footer>
+   
 
 
     
