@@ -11,7 +11,7 @@
 <section id="competencias">
             <h2 style="color: #2980b9; font-size: 1.8em; border-bottom: 2px solid #2980b9; padding-bottom: 5px; margin-bottom: 10px;">Competências Técnicas</h2>
             <ul style="list-style-type: none; padding-left: 0; color: #34495e;">
-                <li><strong>Linguagens de Programação:</strong> HTML, CSS, JavaScript, Python, C#, Node.js</li>
+                <li><strong>Linguagens de Programação:</strong> HTML, CSS, JavaScript, Python, C#, Node.js e Back-end</li>
                 <li><strong>Frameworks e Bibliotecas:</strong>
                     <ul style="color: #34495e;">
                         <li><strong>Frontend:</strong> React, Angular, Vue.js (se aplicável)</li>
