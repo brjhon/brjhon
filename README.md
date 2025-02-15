@@ -18,11 +18,11 @@
                         <li><strong>Backend:</strong> Express.js (para Node.js), Django, Flask (para Python), ASP.NET (para C#)</li>
                     </ul>
                 </li>
-                <li><strong>Banco de Dados:</strong> MySQL, [Outros bancos de dados que você conhece, como PostgreSQL, MongoDB, etc.]</li>
+                <li><strong>Banco de Dados:</strong> MySQL </li>
                 <li><strong>Desenvolvimento Backend:</strong> Node.js, Python (Django, Flask), C# (.NET)</li>
-                <li><strong>Desenvolvimento Frontend:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
-                <li><strong>Ferramentas e Tecnologias:</strong> Git, Docker, CI/CD (Integração Contínua e Entrega Contínua), APIs RESTful</li>
-                <li><strong>Metodologias Ágeis:</strong> Scrum, Kanban, [Outras metodologias ágeis que você utiliza, se aplicável]</li>
+                <li><strong>Desenvolvimento Frontend:</strong> HTML5, CSS3, JavaScript </li>
+                <li><strong>Ferramentas e Tecnologias:</strong> Git, Docker, CI/CD, APIs RESTful</li>
+                <li><strong>Metodologias Ágeis:</strong> Scrum, Kanban,</li>
             </ul>
         </section>
 
