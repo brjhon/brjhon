@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/seu-usuario.png" alt="Foto de Perfil" width="120" style="border-radius:50%;" />
+  <img src="[https://github.com/seu-usuario.png](https://github.com/account)" alt="Foto de Perfil" width="120" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Jhon Wesley</h1>
